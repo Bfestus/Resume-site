@@ -183,9 +183,13 @@ span {
 .about-content .texts{
     width: 400px; /* Set width as needed */
     height: 300px; /* Set height as needed */
+    margin-left: 20px;
     overflow-y: scroll; /* This enables scrolling */
     border: 1px;
     padding: 10px; /* Optional: Add padding for spacing */
+}
+.about-content .heading{
+    margin-left: 20px;
 }
 
 .about-content h2 {
@@ -195,6 +199,7 @@ span {
 
 .about-content h3 {
     font-size: 2.6rem;
+    margin-left: 20px;
 }
 
 .about-content p {
@@ -203,7 +208,7 @@ span {
 }
 .about-content li{
     font-size: 16px;
-    margin-left: 20px;
+    margin-left: 30px;
 } 
 
 .services h2 {
