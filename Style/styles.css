@@ -64,7 +64,6 @@ section {
     font-weight: 700;
 }
 
-.navbar a:hover,
 .navbar a.active {
     color: var(--main-color);
 }
@@ -168,11 +167,12 @@ span {
     align-items: center;
     gap: 2rem;
     background: var(--snd-bg-color);
+    
 }
 
 .about-img img {
-    width: 20vw;
-    height: 35vw;
+    width:20vw;
+    
     border-radius: 20px;
 }
 
@@ -181,12 +181,14 @@ span {
     font-size: 4.5rem;
 }
 .about-content .texts{
-    width: 350px; /* Set width as needed */
+    
+    width: 450px; /* Set width as needed */
     height: 300px; /* Set height as needed */
     margin-left: 20px;
     overflow-y: scroll; /* This enables scrolling */
     border: 1px;
     padding: 10px; /* Optional: Add padding for spacing */
+
 }
 .about-content .heading{
     margin-left: 20px;
@@ -203,12 +205,12 @@ span {
 }
 
 .about-content p {
-    font-size: 1.6rem;
+    font-size: 2.3rem;
     margin: 2rem 0 3rem;
 }
 .about-content li{
     font-size: 16px;
-    margin-left: 30px;
+    margin-left: 20px;
 } 
 
 .services h2 {
@@ -490,7 +492,7 @@ span {
     }
 
     .about-img img{
-        width: 90vw;
+        width: 80vw;
         margin-top: 4rem;
     }
 
@@ -518,7 +520,7 @@ span {
     }
 
     .about-img img{
-        width: 100vw;
+        width: 80vw;
         margin-top: 4rem;
     }
 }
