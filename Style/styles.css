@@ -181,7 +181,7 @@ span {
     font-size: 4.5rem;
 }
 .about-content .texts{
-    width: 400px; /* Set width as needed */
+    width: 350px; /* Set width as needed */
     height: 300px; /* Set height as needed */
     margin-left: 20px;
     overflow-y: scroll; /* This enables scrolling */
