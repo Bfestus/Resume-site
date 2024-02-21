@@ -486,6 +486,7 @@ span {
         /* margin: auto; */
         width: 70vw;
         margin-top: 4rem;
+    
     }
 
     .home-content h3{
@@ -497,7 +498,7 @@ span {
     }
 
     .home-img img {
-        width: 100vw;
+        max-width: 250px;
         
         margin-top: 4rem;
     }
@@ -506,11 +507,13 @@ span {
         flex-direction: column-reverse;
         margin: auto;
     }
+    
 
     .about-img img{
-        height: 25vw;
+        max-height: 450px;
+        max-width: 250px;
         margin-top: 4rem;
-        
+        border-radius: 20%;
     }
 
     .services h2 {
