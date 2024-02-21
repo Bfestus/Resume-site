@@ -24,7 +24,8 @@ This website serves as a showcase of my skills, projects, and experiences. It is
 
 ## Usage
 
-Feel free to explore the website by visiting: [//bfestus.github.io/Resume-site/]
+Feel free to explore the website by visiting: [click here](https://bfestus.github.io/Resume-site/)
+
 
 ## Contributing
 
