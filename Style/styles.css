@@ -163,7 +163,7 @@ span {
 }
 
 .about {
-    margin:auto;
+    margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -475,6 +475,12 @@ span {
     .home {
         flex-direction: column;
     }
+    .about-content .texts{
+        flex-direction: column;
+        /* margin: auto; */
+        width: 70vw;
+        margin-top: 4rem;
+    }
 
     .home-content h3{
         font-size: 2.6rem;
@@ -491,6 +497,7 @@ span {
 
     .about {
         flex-direction: column-reverse;
+        margin: auto;
     }
 
     .about-img img{
