@@ -479,12 +479,12 @@ span {
     .home {
         flex-direction: column;
         /* text-align: center; */
-        margin: 50px;
+        margin: 20px;
     }
     .about-content .texts{
         flex-direction: column;
         /* margin: auto; */
-        width: 70vw;
+        width: 90vw;
         margin-top: 4rem;
     
     }
