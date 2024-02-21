@@ -163,6 +163,7 @@ span {
 }
 
 .about {
+    margin:auto;
     display: flex;
     justify-content: center;
     align-items: center;
